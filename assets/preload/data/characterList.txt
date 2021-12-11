@@ -19,3 +19,7 @@ senpai-angry
 spirit
 bf-pixel-opponent
 pico-player
+bfBackwords
+bfdark
+flowey
+sans
