@@ -909,7 +909,7 @@ class PlayState extends MusicBeatState
 		add(scoreTxt);   
 
                 var creditText:FlxText = new FlxText(876, 648, 348);
-                creditText.text = 'PORTED BY XENTIDOE;
+                creditText.text = 'PORTED BY XENTIDOE';
                 creditText.setFormat(Paths.font("vcr.ttf"), 30, FlxColor.WHITE, RIGHT, FlxTextBorderStyle.OUTLINE,FlxColor.BLACK);
 		creditText.cameras = [camHUD];
                 creditText.scrollFactor.set();
